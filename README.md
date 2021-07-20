@@ -1,6 +1,6 @@
 # Magento 2 Smooth Scroll Extension
 
-[Magento 2 Smooth Scroll](https://www.ulmod.com/smooth-scroll-for-magento-2.html) is a Magento 2 extension that allows your buyers to smoothly scroll to the defined anchor points when links with a href value containing # are clicked.
+[Magento 2 Smooth Scroll](https://www.ulmod.com/smooth-scroll-for-magento-2.html) is a Magento 2 extension that allows your users to smoothly scroll to the defined anchor points when links with a href value containing # are clicked.
 
 With Magento 2 Smooth Scroll, you can add the "smooth scrolling animation" feature to any page of your site and enhance the user experiences.
 
